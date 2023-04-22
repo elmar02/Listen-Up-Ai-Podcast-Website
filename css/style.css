@@ -910,8 +910,7 @@ a {
     width: 20 #allepisode .musics .entry-podcast .play;
     margin-top: -25px;
     box-shadow: 0 0 20px 0 rgba(0, 155, 212, 0.2);
-    -webkit-backface-visibility: hidden;
-            backface-visibility: hidden;
+    backface-visibility: hidden;
     transform: translateZ(0) scale(1, 1);
     transition: all 0.3s cubic-bezier(0.785, 0.135, 0.15, 0.86);
     vertical-align: middle;
@@ -988,8 +987,7 @@ a {
     width: 20 #allepisode .musics .entry-podcast .play;
     margin-top: -25px;
     box-shadow: 0 0 20px 0 rgba(0, 155, 212, 0.2);
-    -webkit-backface-visibility: hidden;
-            backface-visibility: hidden;
+    backface-visibility: hidden;
     transform: translateZ(0) scale(1, 1);
     transition: all 0.3s cubic-bezier(0.785, 0.135, 0.15, 0.86);
     vertical-align: middle;
@@ -1066,8 +1064,7 @@ a {
     width: 20 #allepisode .musics .entry-podcast .play;
     margin-top: -25px;
     box-shadow: 0 0 20px 0 rgba(0, 155, 212, 0.2);
-    -webkit-backface-visibility: hidden;
-            backface-visibility: hidden;
+    backface-visibility: hidden;
     transform: translateZ(0) scale(1, 1);
     transition: all 0.3s cubic-bezier(0.785, 0.135, 0.15, 0.86);
     vertical-align: middle;
@@ -1176,8 +1173,7 @@ a {
     width: 20 #allepisode .musics .entry-podcast .play;
     margin-top: -25px;
     box-shadow: 0 0 20px 0 rgba(0, 155, 212, 0.2);
-    -webkit-backface-visibility: hidden;
-            backface-visibility: hidden;
+    backface-visibility: hidden;
     transform: translateZ(0) scale(1, 1);
     transition: all 0.3s cubic-bezier(0.785, 0.135, 0.15, 0.86);
     vertical-align: middle;
@@ -1286,8 +1282,7 @@ a {
     width: 20 #allepisode .musics .entry-podcast .play;
     margin-top: -25px;
     box-shadow: 0 0 20px 0 rgba(0, 155, 212, 0.2);
-    -webkit-backface-visibility: hidden;
-            backface-visibility: hidden;
+    backface-visibility: hidden;
     transform: translateZ(0) scale(1, 1);
     transition: all 0.3s cubic-bezier(0.785, 0.135, 0.15, 0.86);
     vertical-align: middle;
@@ -1395,8 +1390,7 @@ a {
   width: 20 #allepisode .musics .entry-podcast .play;
   margin-top: -25px;
   box-shadow: 0 0 20px 0 rgba(0, 155, 212, 0.2);
-  -webkit-backface-visibility: hidden;
-          backface-visibility: hidden;
+  backface-visibility: hidden;
   transform: translateZ(0) scale(1, 1);
   transition: all 0.3s cubic-bezier(0.785, 0.135, 0.15, 0.86);
   vertical-align: middle;
